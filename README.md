@@ -12,6 +12,9 @@ Fecha Solicitud:	04/10/2022
 
 Responsable(s) Solicitud:	Luis Enrique Alonso Castillo
 
+## Diagrama de flujo
+
+
 # Buyer de persona
 
 ![Biografía](https://user-images.githubusercontent.com/114460527/200966070-2ec4217f-f667-41e8-aa3e-56624dce2d20.png)
